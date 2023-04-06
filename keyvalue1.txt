@@ -1,0 +1,4 @@
+name=Amit
+lastName=Kumar
+username = root
+password =abcd
