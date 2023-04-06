@@ -1,0 +1,5 @@
+MYSQL_USERNAME: "root"
+MYSQL_PASSWORD: "password"
+MYSQL_HOST: "empms-db"
+MYSQL_DATABASE: "attendancedb"
+SLEEP_INTERVAL: "30"
